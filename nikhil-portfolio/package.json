@@ -8,7 +8,10 @@
   "dependencies": {
     "next": "latest",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "@paypal/react-paypal-js": "^7.6.0",
+    "@stripe/stripe-js": "^1.24.0",
+    "next-themes": "^0.1.1"
   },
   "devDependencies": {
     "@types/node": "17.0.35",
