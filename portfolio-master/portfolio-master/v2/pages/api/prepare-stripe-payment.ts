@@ -3,10 +3,7 @@ const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
 // for get or post request
 import { NextApiRequest, NextApiResponse } from "next";
 // defining base url
-const URL =
-    process.env.NODE_ENV === "development"
-        ? "http://localhost:3000"
-        : process.env.BASE_URL;
+const URL = process.env.BASE_URL
 // async method for handling requests
 const handler = async (req: NextApiRequest, res: NextApiResponse) => {
     // passing only amount in json request
