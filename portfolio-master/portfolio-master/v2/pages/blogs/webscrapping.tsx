@@ -1,5 +1,6 @@
 import Image from "next/image"
 import marriott from "../../public/marriott.jpg"
+import amazon from "../../public/Amazon.png"
 const WebScrapping = () => {
 
     return (
@@ -9,8 +10,8 @@ const WebScrapping = () => {
           <div className="grid justify-center m-2">
             <h1 className="text-7xl font-serif">Web Scrapping-Amazon</h1>
           <Image
-                        src={marriott}
-                        alt="Marriott"
+                        src={amazon}
+                        alt="Amazon"
                         priority={true}
                         className="w-max h-max"
                         placeholder="blur"
