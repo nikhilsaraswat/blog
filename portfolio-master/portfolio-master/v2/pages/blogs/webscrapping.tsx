@@ -8,7 +8,7 @@ const WebScrapping = () => {
             <div className="col-span-2"></div>
             <div className="col-span-8">
           <div className="grid justify-center m-2">
-            <h1 className="text-7xl font-serif">Web Scrapping-Amazon</h1>
+            <h1 className="text-7xl font-serif mb-2">Web Scrapping-Amazon</h1>
           <Image
                         src={amazon}
                         alt="Amazon"
@@ -17,7 +17,7 @@ const WebScrapping = () => {
                         placeholder="blur"
                     /></div>
           <p >
-            When scrapping is the art of extracting data from web. It is used to obtain any kind of data from any website. Here, I am using it to extract data from Amazon Website.I will be using Colab Notebooks and Python3. The purpose is to create a web scrapper bot which will be able to scrap data from amazon website at regular interval and will able to email on matching of certain criterion. I will be using libraries such as Pandas for managing data, BeautifulSoup for extracting data, and SMTP for sending email. 
+            Web scraping is the art of extracting data from the web. It is used to obtain any kind of data from any website. Here, I am using it to extract data from Amazon Website. I will be using Colab Notebooks and Python3. The purpose is to create a web scraper bot that will be able to scrape data from the amazon website at regular intervals and will be able to email on the matching of certain criteria. I will be using libraries such as Pandas for managing data, BeautifulSoup for extracting data, and SMTP for sending an email. 
           </p>
             </div>
             <div className="col-span-2"></div>
