@@ -7,7 +7,6 @@ const Footer = () => {
                 <div className="pb-8 mb-2 border-t-2 border-gray-300 dark:border-white-300"/>
                 <div className="flex flex-col justify-between lg:flex-row items-center">
                     <p>Built with Next.js, Tailwind</p>
-                    <p>Download</p>
                     <a href="https://github.com/nikhilsaraswat/android/archive/refs/heads/master.zip" className={"transition-colors hover:text-yellow-500"}
                             target="_blank"
                             rel="noreferrer">Android</a>
