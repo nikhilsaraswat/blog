@@ -15,7 +15,7 @@ const About = () => {
                         <p className="mb-4">I'm an aspiring Data Analyst and
                             Software Developer.
                         </p>
-                        <p className="mb-4">Currently developing and utilizing my skills in big data, python, sql, graphql, Microsoft 365 and Power Apps
+                        <p className="mb-4">Currently developing and utilizing my skills in big data, python, Next.js, tailwind, java, swift, sql, graphql, Microsoft 365 and Power Apps
                         </p>
                         <p className="mb-4">Welcome to my digital garden, where I share what I'm learning about best pratice to analyze data, soft skills
                             require to be a data analyst and growing a career in tech.
