@@ -13,7 +13,7 @@ const About = () => {
                     </h1>
                     <div className="mt-6 text-gray-800 dark:text-white">
                         <p className="mb-4">I'm an aspiring Data Analyst and
-                            Web Developer.
+                            Software Developer.
                         </p>
                         <p className="mb-4">Currently developing and utilizing my skills in big data, python, sql, graphql, Microsoft 365 and Power Apps
                         </p>
