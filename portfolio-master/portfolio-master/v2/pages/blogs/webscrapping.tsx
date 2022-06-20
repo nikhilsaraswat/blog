@@ -13,7 +13,7 @@ const WebScrapping = () => {
                         src={amazon}
                         alt="Amazon"
                         priority={true}
-                        className="w-max h-max"
+                        className="w-max h-max mt-2"
                         placeholder="blur"
                     /></div>
           <p >
