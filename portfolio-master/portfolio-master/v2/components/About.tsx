@@ -12,15 +12,14 @@ const About = () => {
                         Hey there,
                     </h1>
                     <div className="mt-6 text-gray-800 dark:text-white">
-                        <p className="mb-4">I'm an aspiring Data Analyst and
-                            Software Developer.
+                        <p className="mb-4">I'm an aspiring Data Analyst and Software Developer.
                         </p>
-                        <p className="mb-4">Currently developing and utilizing my skills in big data, python, Next.js, tailwind, java, swift, sql, graphql, Microsoft 365 and Power Apps
+                        <p className="mb-4">
+                            Currently, developing and utilizing my skills in big data, python, Next.js, tailwind, java, swift, SQL, GraphQL, Microsoft 365, and Power Apps.
                         </p>
-                        <p className="mb-4">Welcome to my digital garden, where I share what I'm learning about best pratice to analyze data, soft skills
-                            require to be a data analyst and growing a career in tech.
+                        <p className="mb-4">Welcome to my digital garden, where I share what I'm learning about the best practices to analyze data, and the soft skills required to be a data analyst and grow a career in tech.
                         </p>
-                        <h2 className="font-bold">Let’s Make the anlaysis Faster 🚀</h2>
+                        <h2 className="font-bold">Let’s Make the analysis Faster. 🚀</h2>
                     </div>
                 </div>
                 <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
