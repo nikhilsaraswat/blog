@@ -29,6 +29,26 @@ const Blog = () => {
                     </div>
                     </button>
                     </Link>
+                <Link href="/blogs/marriotthotel">
+                <button className="col-span-1 row-span-1 border-2 grid grid-cols-2 m-2">
+                    <div className="col-span-1 grid grid-rows-6">
+                        <div className="row-span-4">
+                        <Image
+                        src={marriott}
+                        alt="Marriott"
+                        priority={true}
+                        className="w-max h-max"
+                        placeholder="blur"
+                    />
+                        </div>
+                        <h4 className="row-span-1 grid place-content-center">Marriott Hotel-Data Breach</h4>
+                        <p className="row-span-1 grid place-content-center">Created on 18-06-2022</p>
+                    </div>
+                    <div className="col-span-1 m-2">
+                        <p>Hello, This is my first blog in which i am going to explain about the data breach scenario of The Giant Marriott Hotel happened in 2018.</p>
+                    </div>
+                    </button>
+                    </Link>
             </div>
             <div className="col-span-2"></div>
             
