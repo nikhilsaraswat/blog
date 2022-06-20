@@ -32,7 +32,7 @@ const Blog = () => {
                     </Link>
                 <Link href="/blogs/webscrapping">
                 <button className="col-span-1 row-span-1 border-2 grid grid-cols-2 m-2">
-                    <div className="col-span-1 grid grid-rows-6">
+                    <div className="col-span-1 grid grid-rows-6 p-4">
                         <div className="row-span-4">
                         <Image
                         src={amazon}
