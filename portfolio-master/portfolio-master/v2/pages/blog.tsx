@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import Image from "next/image"
 import marriott from "../public/marriott.jpg"
+import amazon from "../public/Amazon.png"
 import Link from 'next/link'
 
 const Blog = () => {
@@ -34,8 +35,8 @@ const Blog = () => {
                     <div className="col-span-1 grid grid-rows-6">
                         <div className="row-span-4">
                         <Image
-                        src={marriott}
-                        alt="Marriott"
+                        src={amazon}
+                        alt="Amazon"
                         priority={true}
                         className="w-max h-max"
                         placeholder="blur"
