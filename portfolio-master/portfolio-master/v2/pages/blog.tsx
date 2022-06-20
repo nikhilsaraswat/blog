@@ -26,7 +26,7 @@ const Blog = () => {
                         <p className="row-span-1 grid place-content-center">Created on 18-06-2022</p>
                     </div>
                     <div className="col-span-1 m-2">
-                        <p>Hello, This is my first blog in which i am going to explain about the data breach scenario of The Giant Marriott Hotel happened in 2018.</p>
+                        <p>Hello, This is my first blog. I will explain the data breach scenario of The Giant Marriott Hotel that happened in 2018.</p>
                     </div>
                     </button>
                     </Link>
@@ -42,11 +42,11 @@ const Blog = () => {
                         placeholder="blur"
                     />
                         </div>
-                        <h4 className="row-span-1 grid place-content-center">Web Scrapping-Amazon</h4>
+                        <h4 className="row-span-1 grid place-content-center">Web Scraping-Amazon</h4>
                         <p className="row-span-1 grid place-content-center">Created on 20-06-2022</p>
                     </div>
                     <div className="col-span-1 m-2">
-                        <p>Web Scrapping bot to scrap data from Amazon website at regular interval and will send email on matching of criterion.</p>
+                        <p>Web Scraping bot to scrap data from Amazon website at regular intervals and will send an email on the matching of criterion.</p>
                     </div>
                     </button>
                     </Link>
