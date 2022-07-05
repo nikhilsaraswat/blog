@@ -50,26 +50,6 @@ const Blog = () => {
                     </div>
                     </button>
                     </Link>
-                <Link href="/blogs/hadoop">
-                <button className="col-span-1 row-span-1 border-2 grid grid-cols-2 m-2">
-                    <div className="col-span-1 grid grid-rows-6 p-4">
-                        <div className="row-span-4">
-                        <Image
-                        src={amazon}
-                        alt="Amazon"
-                        priority={true}
-                        className="w-max h-max"
-                        placeholder="blur"
-                    />
-                        </div>
-                        <h4 className="row-span-1 grid place-content-center">Web Scraping-Amazon</h4>
-                        <p className="row-span-1 grid place-content-center">Created on 20-06-2022</p>
-                    </div>
-                    <div className="col-span-1 m-2">
-                        <p>Web Scraping bot to scrap data from Amazon website at regular intervals and will send an email on the matching of criterion.</p>
-                    </div>
-                    </button>
-                    </Link>
             </div>
             <div className="col-span-2"></div>
             
